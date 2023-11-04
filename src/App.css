@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+}
+
+.container{
+  height: 60%;
+  display: flex;
+  background-color: brown;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 5px 0;
+  
+}
